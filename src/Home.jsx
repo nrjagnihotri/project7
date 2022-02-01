@@ -5,7 +5,7 @@ const img1 = "https://picsum.photos/200/300";
 const Home = () => {
     return (<>
 
-        <Common name="Grow your bussiness with"
+        <Common name="Grow your bussiness"
             imgsrc={img1}
             visit='/service'
             btname="Get Started" />

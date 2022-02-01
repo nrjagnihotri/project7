@@ -5,7 +5,7 @@ const img1 = "https://picsum.photos/200/300";
 const About = () => {
     return (<>
         <Common
-            name="Welcome to About page"
+            name="Welcome to page"
             imgsrc={img1}
             visit='/contact'
             btname="Contact Now" />
